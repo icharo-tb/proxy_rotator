@@ -10,8 +10,9 @@ The idea of this system is really simple, when we normally scrape a site we can 
 
 ### Sites :link:
 
-I used the same page as the video to get the proxy list: [here](https://free-proxy-list.net/)
-As for the proxy status code trials I used this ip page but choosing a California IP: [here](https://ipinfo.io/8.8.4.4/json)
+- I used the same page as the video to get the proxy list: [here](https://free-proxy-list.net)
+
+- As for the proxy status code trials I used this ip page but choosing a California IP: [here](https://ipinfo.io/8.8.4.4/json)
 
 ---
 
