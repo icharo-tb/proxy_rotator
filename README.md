@@ -2,7 +2,6 @@
     <h1>Proxy Rotator<h1>
 </div>
 
----
 
 After learning about **web-scraping** I found a [video](https://www.youtube.com/watch?v=FbtCl9jJyyc&ab_channel=NeuralNine) that caught my attention. It comes from a really nice content creator called [NeuralNine](https://www.youtube.com/@NeuralNine) that works a lot with Python.
 
